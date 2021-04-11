@@ -1,7 +1,7 @@
 
 # password_pwned_checker
 
-Melihat probabilitas password anda berapa kali pernah bocor atau terlihat di database have i get pwned
+Melihat probabilitas password anda berapa kali pernah bocor atau terlihat di database have i been pwned https://haveibeenpwned.com/
 
 untuk windows pastikan anda sudah menginstall atau memiliki linux environment sperti xserver, cygwin, atau anda dapat mengunakan wsl yang sudah tersidah langsung
 di os windows anda
