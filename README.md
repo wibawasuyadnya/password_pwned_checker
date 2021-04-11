@@ -10,7 +10,7 @@ untuk mac os dan linux tinggal langsung aja sediakan folder dimana anda akan men
 
 dan pastikan anda sudah menginstall git / g++ compiler dengan cara 
 1. windows, mac, linux debian base : sudo apt install git 
-2. lalu git clone 
+2. lalu git clone https://github.com/Suyadnya/password_pwned_checker.git
 3. lalu bash atau ./password_test.sh
 4. enjoy ~
 
